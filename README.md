@@ -13,8 +13,8 @@ By flutter store app build by api from php store web proj this is also in reposi
 <p> If needs Both Website and Applications </p>
 <br> OR Can </br>
 <ul>
-  <li>❤ <b><a target="_blank" href="https://github.com/HassanAmeer/Php-Ecommerce-Store-Web"> download </a></b>: php web (includes web Projects files)</li>
-  <li>❤ <b><a target="_blank" href="https://github.com/HassanAmeer/Flutter-Ecommerce-App-by-Api"> download </a></b>: Flutter Store  (includes App Projects files) </li>
+  <li>❤ <b><a target="_blank" href="https://github.com/HassanAmeer/Php-Ecommerce-Store-Web"> download </a></b>: php web (included web Projects files)</li>
+  <li>❤ <b><a target="_blank" href="https://github.com/HassanAmeer/Flutter-Ecommerce-App-by-Api"> download </a></b>: Flutter Store  (included App Projects files) </li>
 </ul>
 <i> <p style="color:orange;"> if any Problems Can Contact Feel Free </p> </i>
 
