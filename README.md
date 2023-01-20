@@ -21,10 +21,8 @@ and some demo images are here's
 <a target="_blank" href="https://www.mediafire.com/file/obwxxe0d5ss0kwv/flutter%252BPHP_mahar_Shopping_Store_video_demo.mp4/file"> Download HD Demo Video </a>
 <mark> Video Size: 46 MB </mark>
 
-# Screenshots Demo
-1.
-<img src='demo 1.jpg'>
-
+# GIF Demo (2 Minuts)
+![snippets in action](https://github.com/HassanAmeer/Flutter-Ecommerce-App-by-Api/blob/main/API_Store_demo.gif)
 
 
 <b> Hd Video Demo Link </b>
